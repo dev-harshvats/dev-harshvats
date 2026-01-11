@@ -11,7 +11,7 @@
 - 💻 MERN Stack Developer proficient in **Data Structures & Algorithms**
 - 🚧 Currently building: **CP Tracker** to visualize coding progress
 - 💬 Ask me about: React, Next.js, C++, Algorithmic Logic, or anything fun
-- 📧 Reach out: (mailto:h.harshvats@gmail.com)
+- 📧 Reach out: [h.harshvats@gmail.com](mailto:h.harshvats@gmail.com)
 - 🌐 Connect with me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsharsh)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/dev-harshvats)
