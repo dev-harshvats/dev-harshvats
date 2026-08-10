@@ -9,7 +9,7 @@
 
 - 🎓 B.Tech ECE @ **Delhi Technological University (DTU)**
 - 💻 MERN Stack Developer proficient in **Data Structures & Algorithms**
-- 🚧 Currently building: **CP Tracker** to visualize coding progress
+- 🚧 Currently building: **PrepSense**, an AI-powered mock interview platform
 - 💬 Ask me about: React, Next.js, C++, Algorithmic Logic, or anything fun
 - 📧 Reach out: [h.harshvats@gmail.com](mailto:h.harshvats@gmail.com)
 - 🌐 Connect with me:
@@ -20,7 +20,7 @@
 
 ### 🧠 Currently Building
 
-- 🏆 **CP Tracker**: A comprehensive tracking platform for competitive programmers to monitor progress across LeetCode/CodeForces.
+- 🎯 **PrepSense**: An AI-powered mock interview platform built with **Next.js, Node.js, PostgreSQL & Prisma**, delivering real-time, SSE-streamed feedback powered by **Groq's Llama 3.3 70B**. It features a **Piston-based code execution pipeline** integrated with the **Codeforces API** for authentic, real-world coding interview practice.
 
 ---
 
@@ -31,15 +31,12 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
